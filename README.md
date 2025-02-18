@@ -12,18 +12,12 @@ Maps SDK for Android
 + 歩いた場所に青い点を表示する
 
 # 画面
-<style>
-  ul {
-    display: flex;
-  }
-</style>
-
-<ul>
-  <li><img src="https://github.com/user-attachments/assets/685b2aa8-5713-4479-b346-db6b6002bca3" width=30%></li>
-  <li><img src="https://github.com/user-attachments/assets/065f8638-2337-41c7-a2f5-77cd8e957df3" width=30%></li>
-  <li><img src="https://github.com/user-attachments/assets/94c89787-d2a1-4be9-b2f5-23c966cf73d5" width=30%></li>
-  <li><img src="https://github.com/user-attachments/assets/085be78d-b1cf-42e7-8269-15e1521bd414" width=30%></li>
-</ul>
+<div style=display: flex;>
+  <img src="https://github.com/user-attachments/assets/685b2aa8-5713-4479-b346-db6b6002bca3" width=30%>
+  <img src="https://github.com/user-attachments/assets/065f8638-2337-41c7-a2f5-77cd8e957df3" width=30%>
+  <img src="https://github.com/user-attachments/assets/94c89787-d2a1-4be9-b2f5-23c966cf73d5" width=30%>
+  <img src="https://github.com/user-attachments/assets/085be78d-b1cf-42e7-8269-15e1521bd414" width=30%>
+</div>
 
 
 
